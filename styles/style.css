@@ -1,0 +1,76 @@
+/* HTML size */
+
+html {
+  font-size: 62.5%;
+  min-width: 100%;
+}
+
+/* Navbar */
+
+nav {
+  display: flex;
+  margin: 8.3rem 2.2rem 0 2.2rem;
+  min-width: 95.7%;
+  justify-content: center;
+  height: 3.6rem;
+}
+
+nav button {
+  height: 100%;
+  min-width: 10.5rem;
+  background: -webkit-linear-gradient(bottom, #817f7f, #6e6c6c 50%, #817f7f 51%, #858282 100%);
+  border: 0.1rem solid #666;
+  cursor: pointer;
+}
+
+nav button:hover {
+  background: -webkit-linear-gradient(bottom, #5e5d5d, #4b4b4b 50%, #5c5c5c 51%, #5e5d5d 100%);
+}
+
+.apple-logo-button {
+  border-radius: 0.4rem 0 0 0.4rem;
+  cursor: pointer;
+}
+
+nav a {
+  font-size: 1.2rem;
+  color: #ffffff;
+  text-decoration: none;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+}
+
+.apple-logo {
+  height: 70%;
+  width: auto;
+}
+
+form {
+  position: relative;
+  height: 100%;
+  min-width: 13.2rem;
+  border: 0.1rem solid #666;
+  background: -webkit-linear-gradient(bottom, #817f7f, #6e6c6c 50%, #817f7f 51%, #858282 100%);
+  border-radius: 0 0.4rem 0.4rem 0;
+}
+
+.fa-search {
+  position: absolute;
+  left: 1.6rem;
+  bottom: 0.625rem;
+}
+
+.search-label {
+  display: none;
+}
+
+.search-input {
+  border-radius: 1.2rem;
+  height: 1.95rem;
+  width: 10.6rem;
+  margin: 0.825rem 1.3rem;
+  background: -webkit-linear-gradient(bottom, #948f8f, #7a7676 50%, #8f8a8a 51%, #948e8e 100%);
+  border-width: 0;
+  padding-left: 2.2rem;
+  color: #fff;
+  outline: none;
+}
