@@ -144,8 +144,6 @@ q::after {
 table {
   border-collapse: collapse;
   border-spacing: 0;
-  border-collapse: collapse;
-  border-spacing: 0;
 }
 
 input[type=search] {
@@ -381,14 +379,14 @@ input[type="search"]::-webkit-search-decoration {
  * Remove inner padding and border in Firefox 3+.
  */
  
- html,
- button,
- input,
- select,
- textarea {
-   color: #222;
- }
- 
+html,
+button,
+input,
+select,
+textarea {
+  color: #222;
+}
+
 button::-moz-focus-inner,
 input::-moz-focus-inner {
   border: 0;
