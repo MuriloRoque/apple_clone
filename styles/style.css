@@ -19,6 +19,7 @@ body {
   min-width: 100%;
   height: 131.5rem;
   z-index: -1;
+  cursor: pointer;
 }
 
 /* Navbar */
@@ -97,6 +98,7 @@ main {
   text-align: center;
   min-width: 100%;
   height: 36.5rem;
+  cursor: pointer;
 }
 
 .what {
@@ -109,6 +111,7 @@ main {
   margin-top: 5rem;
   margin-bottom: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  cursor: text;
 }
 
 .everyone {
@@ -120,6 +123,7 @@ main {
   width: 80rem;
   margin: 0 auto;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  cursor: text;
 }
 
 .watch {
@@ -132,6 +136,7 @@ main {
   width: 55rem;
   margin: 0 auto;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  cursor: text;
 }
 
 /* Images section */
@@ -146,6 +151,7 @@ section img {
   top: 10rem;
   max-width: 25%;
   border: 2px solid #fff;
+  cursor: pointer;
 }
 
 /* Footer */
@@ -173,6 +179,10 @@ footer a {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+footer a:hover {
+  text-decoration: underline;
+}
+
 .left-footer {
   margin-right: 1rem;
   text-align: left;
@@ -187,4 +197,5 @@ footer a {
   width: 1.4rem;
   height: 1.4rem;
   margin-left: 0.5rem;
+  cursor: pointer;
 }

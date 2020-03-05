@@ -4,24 +4,16 @@ This is a clone of the Apple Page.
 # What it does
 This page shows a copy of an old Apple Page.
 
-
-![screenshot](images/screenshot.png)
-
 ## Built with
 HTML and CSS
 
 ## Live Demo
-[Click for the Form clone](https://raw.githack.com/MuriloRoque/new-york-times-clone/home-page/index.html)
+[Click for live webpage](https://raw.githack.com/MuriloRoque/apple-clone-webpage/home-page/index.html)
 
 ## Getting Started
-You will be redirected to a copy of the New York Times Page. You can read that very interesting article.
+You will be redirected to a copy of the Apple Page.
 
-## Authors
-Rose Wanjohi
-
-Github: @blackpintz
-Twitter: @blackpintz
-Linkedin: https://www.linkedin.com/in/rose-wanjohi-923726193/
+## Author
 
 Murilo Roque Paiva da Silva
 
@@ -43,3 +35,4 @@ Contributions, issues and feature requests are welcome! Start by:
 ## Pending and proposed features
 * Working buttons and links
 * Design improvments
+* Improved responsiveness
