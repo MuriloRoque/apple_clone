@@ -1,7 +1,7 @@
 # Apple Clone Page
 This is a clone of the Apple Page.
 
-![screenshot](images/apple.png)
+![screenshot](images/apple.png) 
 
 # What it does
 This page shows a copy of an old Apple Page.
