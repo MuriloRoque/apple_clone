@@ -19,9 +19,10 @@ You will be redirected to a copy of the Apple Page.
 
 Murilo Roque Paiva da Silva
 
-Github: @MuriloRoque
-Twitter: @MuriloRoquePai1
-Linkedin: https://www.linkedin.com/in/murilo-roque-b1268741/
+Github: @MuriloRoque <br>
+Twitter: @MuriloRoquePai1 <br>
+Linkedin: https://www.linkedin.com/in/murilo-roque-b1268741/ <br>
+Avaiable for hire? YES
 
 ## 🤝 Contributing
 
