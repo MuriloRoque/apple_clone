@@ -46,10 +46,6 @@ nav a {
   padding-top: 0.9rem;
 }
 
-nav a:hover {
-  background: -webkit-linear-gradient(bottom, #5e5d5d, #4b4b4b 50%, #5c5c5c 51%, #5e5d5d 100%);
-}
-
 .apple-logo-link {
   border-radius: 0.4rem 0 0 0.4rem;
   cursor: pointer;
@@ -138,10 +134,6 @@ main {
   text-decoration: none;
 }
 
-.watch:hover {
-  background: linear-gradient(transparent 0%, transparent 30.5%, #fff 31%, transparent 32%);
-}
-
 main img {
   width: 3rem;
   height: auto;
@@ -150,7 +142,7 @@ main img {
 /* Images section */
 
 .bottom-images {
-  max-width: 100%r;
+  max-width: 100%;
   display: flex;
   justify-content: space-around;
 }
@@ -182,17 +174,6 @@ footer p {
   line-height: 1.2rem;
 }
 
-footer a {
-  font-size: 1rem;
-  color: #08c;
-  text-decoration: none;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
-footer a:hover {
-  text-decoration: underline;
-}
-
 .left-footer {
   margin-right: 1rem;
   text-align: left;
@@ -203,9 +184,31 @@ footer a:hover {
   margin-left: 1rem;
 }
 
+.left-footer a,
+.right-footer a {
+  font-size: 1rem;
+  color: #08c;
+  text-decoration: none;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 .right-footer img {
   width: 1.4rem;
   height: 1.4rem;
   margin-left: 0.5rem;
   cursor: pointer;
+}
+
+/* Hover effects */
+
+nav a:hover {
+  background: -webkit-linear-gradient(bottom, #5e5d5d, #4b4b4b 50%, #5c5c5c 51%, #5e5d5d 100%);
+}
+
+.watch:hover {
+  background: linear-gradient(transparent 0%, transparent 30.5%, #fff 31%, transparent 32%);
+}
+
+footer a:hover {
+  text-decoration: underline;
 }
