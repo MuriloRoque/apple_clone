@@ -1,30 +1,36 @@
 [![hire-badge](https://img.shields.io/badge/Consult%20/%20Hire%20Murilo-Click%20to%20Contact-brightgreen)](mailto:muriloengqui@gmail.com) [![Twitter Follow](https://img.shields.io/twitter/follow/MuriloRoquePai1?label=Follow%20Murilo%20on%20Twitter&style=social)](https://twitter.com/MuriloRoquePai1)
 
 # Apple Clone Page
+
 This is a clone of the Apple Page.
 
 ![screenshot](images/apple.png) 
 
 # What it does
+
 This page shows a copy of an old Apple Page.
 
 ## Built with
+
 HTML and CSS
 
 ## Live Demo
+
 [Click for live webpage](https://raw.githack.com/MuriloRoque/apple-clone-webpage/home-page/index.html)
 
 ## Getting Started
+
 You will be redirected to a copy of the Apple Page.
 
 ## Author
 
 Murilo Roque Paiva da Silva
 
-Github: @MuriloRoque <br>
-Twitter: @MuriloRoquePai1 <br>
-Linkedin: https://www.linkedin.com/in/murilo-roque-b1268741/ <br>
-Avaiable for hire? YES
+Github: [@MuriloRoque](https://github.com/MuriloRoque)
+
+Twitter: [@MuriloRoquePai1](https://twitter.com/MuriloRoquePai1)
+
+Linkedin: [MuriloRoque](https://www.linkedin.com/in/murilo-roque-b1268741/)
 
 ## 🤝 Contributing
 
@@ -38,6 +44,7 @@ Contributions, issues and feature requests are welcome! Start by:
 * Open a Pull Request with a detailed description to the development branch of the original project for a review
 
 ## Pending and proposed features
+
 * Working buttons and links
 * Design improvments
 * Improved responsiveness
